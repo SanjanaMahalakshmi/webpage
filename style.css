@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/activities/alg3puq4hmpeobqhumjd/Walt%20Disney%20World%20Ticket%20in%20Florida%20Orlando.jpg)
+}
+.backb{
+    width: 50rem;
+    height: 30em;
+    border: 2px solid black;
+    background-color: rgba(13, 12, 10, 0.431);
+}
+.table{
+    border: 1px solid black;
+    background-color: rgba(74, 74, 195, 0.331);
+    z-index: -1;
+}
+.t1{
+    margin-right:25rem ;
+    margin-top: -30rem; 
+    border-collapse: collapse;
+}
+.t2{
+    margin-left: 400px;
+    margin-top: -409px;
+    border-collapse: collapse;
+}
+th{
+    background-color: aliceblue;
+}
+h1{
+    background-color: brown;
+   
+}
